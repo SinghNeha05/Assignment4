@@ -1,0 +1,9 @@
+ul {
+  list-style-type: none;
+}
+h1 {
+  font-family: monospace;
+}
+.col-md-4 {
+  overflow-y: scroll;
+}
